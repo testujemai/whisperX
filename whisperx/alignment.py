@@ -55,7 +55,7 @@ DEFAULT_ALIGN_MODELS_HF = {
     "ml": "gvs/wav2vec2-large-xlsr-malayalam",
     "no": "NbAiLab/nb-wav2vec2-1b-bokmaal",
     "nn": "NbAiLab/nb-wav2vec2-300m-nynorsk",
-    "sk": "infinitejoy/wav2vec2-large-xls-r-300m-slovak",
+    "sk": "openai/whisper-large-v3",
 }
 
 
